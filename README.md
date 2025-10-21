@@ -81,7 +81,7 @@ Stay in the loop with the latest updates and get in touch for support.
 
 | Platform | Link |
 | :--- | :--- |
-| **Official Website** | [**foursniper.app**](https://foursniper.dev/) <br/> _Bookmark it! Don't fall for impersonators._ |
+| **Official Website** | [**foursniper.dev**](https://foursniper.dev/) <br/> _Bookmark it! Don't fall for impersonators._ |
 | **Developer Contact** | [**@migrainedev on Telegram**](https://t.me/migrainedev) |
 
 <br/>
