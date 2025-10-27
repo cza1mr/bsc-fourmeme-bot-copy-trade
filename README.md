@@ -8,7 +8,7 @@
 <h1 align="center">☘️ FourSniper ☘️</h1>
 
 <p align="center">
-  <strong>The First & Fastest Sniper Bot for Four.meme</strong>
+  <strong>The First & Fastest Sniper Bot for Four.meme!</strong>
   <br />
   <br />
     <a href="https://foursniper.dev/"><strong>Explore the Website »</strong></a>
